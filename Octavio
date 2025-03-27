@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Address</title>
+</head>
+
+<body>
+
+ My Address is.
+ <Address>
+    Ramesh,<br>
+	Kozicode,<br>
+	Chennai,<br>
+	Pin-629167,<br>
+	K.K.Dist.
+  </Address>
+
+</body>
+
+</html>Kozicode,<br>
+	Chennai,<br>
+	Pin-629167,<br>
+	K.K.Dist<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Horizontal Line</title>
+</head>
+
+<body>
+
+ First Line
+ <hr> Second Line
+ <hr> Third Line
+ <hr>
+
+</body>
+
+</html><!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Heading in HTML</title>
+</head>
+
+<body>
+
+ <h1>Heading1</h1>
+ <h2>Heading2</h2>
+ <h3>Heading3</h3>
+ <h4>Heading4</h4>
+ <h5>Heading5</h5>
+ <h6>Heading6</h6>
+
+</body>
+
+</html><!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Paragraph Tag</title>
+</head>
+
+<body>
+
+ <p>This is the First Paragraph starting</p>
+ <p>This is the Second Paragraph starting</p>
+ <p>This is the Fourth Paragraph starting</p>
+ <p>This is the Fifth Paragraph starting</p>
+
+</body>
+
+</html><!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+Here you can write the HTML code
+
+</body>
+
+</html>
